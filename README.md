@@ -1,6 +1,6 @@
 ### Quick Installation
 
-To install the Picsmize library, the syntax for installing the command line goes like this;
+To install the Picsmize library, Here is how you can install using command line,
 
 ```bash
 $ composer require picsmize/picsmize-codeigniter
@@ -9,7 +9,7 @@ $ composer require picsmize/picsmize-codeigniter
 ### Configuration
 
 Move the Picsmize library to the Libraries folder of the project `/application/third_party` :
-To load the Picsmize library into your project go to `/application/config/config.php` and find this line
+To load the Picsmize library into your project, open `/application/config/config.php` and find this line
 
 ```php
 $config['composer_autoload'] = FALSE;
